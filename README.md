@@ -3,6 +3,7 @@ An iOS app to manage products, built with Xcode in Swift.
 
 # Function
 This app is used to manage products.
+
 <kbd><img src="/public/ios_native_simulator.png" width="400px"></kbd>
 
 # Setup Locally
